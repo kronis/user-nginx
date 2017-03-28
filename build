@@ -1,0 +1,2 @@
+#docker build -t smebberson/user-nginx /vagrant/examples/user-nginx
+docker build -t user-nginx .

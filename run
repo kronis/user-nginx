@@ -1,0 +1,3 @@
+
+# run the user-nginx image
+docker run --rm --name user-nginx -p 8080:80 kronis/user-nginx
